@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Front-end developer</h2>
+  <h2>I'm learning Front-end development.</h2>
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
