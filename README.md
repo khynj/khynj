@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>프론트엔드 개발자</h1>
+  <h2>프론트엔드를 학습하고 있습니다.</h2>
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
