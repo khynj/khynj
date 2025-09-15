@@ -1,6 +1,4 @@
-<p align="center">
-안녕하세요. Front-end를 개발하는 강현지입니다.
-</p>
+<h3 align="center">안녕하세요. Front-end를 개발하는 강현지입니다.</h3>
 <br>
 
 <p align="center">
